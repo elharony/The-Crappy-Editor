@@ -1,0 +1,12 @@
+body {
+    background: #202833
+}
+.editor-wrapper {
+    width: 500px;
+    height: 300px;
+    background: #ffffff
+}
+#editor {
+    width: 100%;
+    height: 100%;
+}
